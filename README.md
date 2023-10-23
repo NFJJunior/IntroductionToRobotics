@@ -19,6 +19,7 @@ Use a separate potentiometer for controlling each color of the RGB LED (Red, Gre
 ### [Complete requirements](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework2/Homework%20%232%20-%20RGB.pdf)
 
 ### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework2/SetupHM2.jpeg)
 
 ### Code
 
