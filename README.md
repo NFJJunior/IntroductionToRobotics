@@ -67,7 +67,13 @@ next desired floor).
 
 ### Implementation details
 * I tried to emulate a reallife elevator. I used a queue and a vector in order to store the floors order of arrival. Also, if the next floor in the queue is 2 and the button for floor 1 was pressed as well, the elevator will stop at floor 1 first before arriving to floor 2.
-* I used the ArduinoQueue Library. 
+* I used the ArduinoQueue Library.
+
+### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework3/SetupHM3.jpeg)
+### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework3/homework3.ino)
+
+### [Demo](https://www.youtube.com/shorts/aPiWmkTi4iA)
 
 </details>
 
