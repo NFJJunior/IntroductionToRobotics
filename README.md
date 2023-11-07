@@ -99,11 +99,11 @@ state from ON to OFF or from OFF to ON. Long pressing the button
 resets the entire display by turning all the segments OFF and moving the
 current position to the decimal point.
 
-</details>
-
 ### Setup
 ![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework4/SetupHM4.jpeg)
 ### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework4/homework4.ino)
 
 ### [Demo](https://www.youtube.com/watch?v=OCDyvGfrzfE)
+
+</details>
 
