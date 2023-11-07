@@ -77,3 +77,33 @@ next desired floor).
 
 </details>
 
+## Homework 4
+
+<details>
+<summary>See details</summary>
+<br>
+
+### Components
+* 1 7-Segments Display
+* 1 Joystick
+* Resistors and wires as needed
+
+### Technical task
+Use the joystick to control the position of the segment and ”draw” on the display.
+
+The initial position should be on the DP. The current
+position always blinks (irrespective of the fact that the segment is on or
+off). Use the joystick to move from one position to neighbors (see table for
+corresponding movement). Short pressing the button toggles the segment
+state from ON to OFF or from OFF to ON. Long pressing the button
+resets the entire display by turning all the segments OFF and moving the
+current position to the decimal point.
+
+</details>
+
+### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework4/SetupHM4.jpeg)
+### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework4/homework4.ino)
+
+### [Demo](https://www.youtube.com/watch?v=OCDyvGfrzfE)
+
