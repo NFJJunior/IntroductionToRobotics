@@ -107,3 +107,37 @@ current position to the decimal point.
 
 </details>
 
+## Homework 5
+
+<details>
+<summary>See details</summary>
+<br>
+  
+### Components
+* 1 4 Digit 7-Segments Display
+* 3 Buttons
+* Resistors and wires as needed
+
+### Technical task
+Implemented a stopwatch that counts in 10ths of a second and has a lap functionality.
+
+There are 3 buttons: Start/Stop, Save lap/Cycle throught laps, Reset.
+
+### Workflow
+1. The display starts in the IDLE mode showing 000.0. When pressing the Start button, the timing will start.
+When pressing the Laps button, the display will show the saved laps if there are anyand will enter LAPS mode. When pressing the Reset button
+nothing happens.
+2. During the time counter, the Start button will stop the count. The Laps button will record the current lap. The Reset button will do nothing.
+3. During PAUSE Mode, the Start button will start counting from where it left off.
+The Laps button will do norhing. The Reset button will reset the timer to 000.0
+4. During Laps Mode, the Start button will do nothing. The Laps button will cycle through every recorded lap. The Reset button will reset the laps
+and will return the display to the IDLE mode.
+
+### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework5/SetupHM5.jpeg)
+### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework5/homework5.ino)
+
+### [Demo](https://www.youtube.com/watch?v=EuUrEtstUUg)
+
+</details>
+
