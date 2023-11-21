@@ -141,3 +141,28 @@ and will return the display to the IDLE mode.
 
 </details>
 
+## Homework 6
+
+<details>
+<summary>See details</summary>
+<br>
+  
+### Components
+* Ultrasonic Sensor (HC-SR04)
+* LDR (Light-Dependent Resistor)
+* RGB LED
+* Resistors and wires as needed
+
+### Technical task
+Developed a ”Smart Environment Monitor and Logger” using Arduino. This system utilizes various sensors to gather environmental data, log this data into
+EEPROM, and provide both visual feedback via an RGB LED and user interaction through a Serial Menu. The project focuses on integrating sensor readings,
+memory management, Serial Communication and the general objective of building a menu.
+
+### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework6/SetupHM6.jpeg)
+### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework6/homework6.ino)
+
+### [Demo](https://www.youtube.com/watch?v=1APCul9bQxs)
+
+</details>
+
