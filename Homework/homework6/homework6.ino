@@ -411,7 +411,7 @@ void menuLogic() {
                 break;
             }
             case ULTRASONIC_ALERT_THRESHOLD: {
-                if (option < 5 || option > 200) {
+                if (option >= 5 && option <= 200) {
                     EEPROM.put(distanceThresholdAddress, (unsigned int)option);
 
                     Serial.println("Min distance threshold value modified with success!");

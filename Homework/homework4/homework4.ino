@@ -1,4 +1,4 @@
-//  All the segments pins
+	//  All the segments pins
 const int pinA = 13;
 const int pinB = 12;
 const int pinC = 11;
@@ -135,6 +135,8 @@ void moveSegment(const int move) {
 void readJoyValues() {
     xValue = analogRead(pinX);
     yValue = analogRead(pinY);
+
+    
 
     if (xValue < minThreshold && joyMoved == false && (millis() - lastMoveTime) >= moveDelay) {
         moveSegment(LEFT);
