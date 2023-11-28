@@ -166,3 +166,31 @@ memory management, Serial Communication and the general objective of building a 
 
 </details>
 
+## Homework 7
+
+<details>
+<summary>See details</summary>
+<br>
+  
+### Components
+* 8x8 LED Matrix
+* Joystick
+* MAX7219
+* Resistors and wires as needed
+
+### Technical task
+Developed a small game on the 8x8 matrix.
+The game has 3 types of elements: player (blinks slowly), bomb (blinks fast), wall (doesn’t blink).
+The map is generated randomly with 62.5% of walls.
+The walls can be destroyed if a bomb is placed adjacent to it.
+* If the player is adjacent to the bomb when the bomb explodes, the game is lost.
+* If the player clears all walls, the game is won.
+
+### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework7/SetupHM7.jpeg)
+### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework7/homework7.ino)
+
+### [Demo](https://www.youtube.com/watch?v=Fl8N0xeZdLQ)
+
+</details>
+
