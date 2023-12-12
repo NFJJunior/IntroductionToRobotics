@@ -194,3 +194,20 @@ The walls can be destroyed if a bomb is placed adjacent to it.
 
 </details>
 
+## Homework 8
+
+<details>
+<summary>See details</summary>
+<br>
+
+### Technical task
+Matrix project checkpoint
+
+### Setup
+![Setup](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework8/SetupHM8.jpeg)
+### [Code](https://github.com/NFJJunior/IntroductionToRobotics/blob/main/Homework/homework8/homework8.ino)
+
+### [Demo](https://www.youtube.com/watch?v=o3hmRRxhH4Q)
+
+</details>
+
